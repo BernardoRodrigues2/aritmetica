@@ -1,5 +1,5 @@
 body{
-background-color: blue;
+background-color: black;
 color: white;
 font-family: Tahoma;
 text-align: center;
@@ -13,8 +13,8 @@ font-size: 20px;
 }
 
 input,button{
-    color:white;
-    background-color: black;
+    color:black;
+    background-color: white;
     font-size: 20px;
     border-radius: 16px;
 }
