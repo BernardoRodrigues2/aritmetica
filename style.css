@@ -1,6 +1,21 @@
-body{background-color: blue;
+body{
+background-color: blue;
 color: white;
 font-family: Tahoma;
 text-align: center;
 
 }
+
+label{
+font-family: Arial;
+font-weight: bold;
+font-size: 20px;
+}
+
+input,button{
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 16px;
+}
+
